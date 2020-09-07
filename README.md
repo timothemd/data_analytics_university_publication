@@ -1,2 +1,3 @@
-# data_analytics_university_publication
-Anonymised sourced data and code for figures
+# Data Analytics University publication
+
+Anonymised source data and code for figures
